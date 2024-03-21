@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831831084563",
+    "project_id": "activitireg",
+    "storage_bucket": "activitireg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831831084563:android:b7b70c8f5c5e1a410c39e6",
+        "android_client_info": {
+          "package_name": "com.example.logscreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA61LpezMtQZEVhlVdG4LvNMSIjPzflUsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
